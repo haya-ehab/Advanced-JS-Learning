@@ -1,0 +1,26 @@
+1- What is OOP?
+- Object-Oriented Programming a programming paradigm that is focused on Objects than Functions
+
+2- 4 Pillars of OOP
+- Encapsulation -> Reduce complexity, increase resuability
+- Abstraction -> Reduce complexity, isolatee impact of changes
+- Inhertitance -> Eliminate Reduntant Code
+- Polymorphism (many forms) -> Refactor ugly switch/case statments
+
+3- Why use OOP?
+- Helps keep your code organized and reusable
+- Makes it easier to model real-world things
+- Supports concepts like inheritance, encapsulation, Abstraction and polymorphism
+
+
+4- Setting Up the Development Environment
+- VsCode
+- Live Sever Or Use The Terminal 
+
+5- Course Structure (Outline)
+- Objects
+- Prototypes
+- Prototypical inheritance
+- ECMAScript (ES6 Classes)
+- Modules
+
