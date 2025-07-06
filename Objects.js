@@ -125,3 +125,35 @@
 //     console.log('Circle has a radius');
 
 // Abstraction
+
+// function Circle(radius) {
+//     this.radius = radius;
+//     this.defaultLocation = {x: 0, y: 0};
+//     this.computeOptimumLocation = function() {
+//         // ...
+//     }
+//         this.draw = function() {
+//             this.computeOptimumLocation();
+//         console.log('draw');
+//     };
+// }
+
+// const circle = new Circle(10);
+
+// Private Properties and Methods
+
+// function Circle(radius) { 
+//    // Public member 
+//    this.radius = radius; 
+
+//    // Private member                       
+//    let defaultLocation = {};                      
+// }                  
+
+
+// Getters and Setters
+
+// Object.defineProperty(this, 'defaultLocation', {
+//     get: function() { return defaultLocation; },
+//     set: function(value) { defaultLocation = value; }
+// });
