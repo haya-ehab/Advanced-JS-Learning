@@ -70,3 +70,14 @@
 // p1.sayHello(); // Shared method from prototype
 // p2.sayHello(); // Shared method from prototype
 
+// Iterating Instance and Prototype Members
+// -it looping through the properties and methods that belong either to:
+// The instance itself (own properties/methods)
+// Or its prototype (inherited properties/methods)
+
+
+// Avoid Extending The Built-in Objects
+// -> Dont modify Objects you dont own
+
+
+
