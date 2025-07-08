@@ -41,5 +41,9 @@ GitHub: @haya-ehab
 
 LinkedIn: Haya Ehab
 
-📄 License
-MIT License – Feel free to fork, clone, or adapt for your own learning!
+
+## 📜 License
+
+This repository is for **personal learning purposes only**, based on  
+["Ultimate JavaScript Part 2: Advanced Topics"](https://codewithmosh.com) by Mosh Hamedani.  
+All rights to the original course content belong to Code with Mosh.
