@@ -94,3 +94,64 @@
 // extend(Circle, Shape);
 
 // const c = new Circle();
+
+// Polymorphism
+
+// function Square() {
+
+//     extend(Square, Shape);
+//     Circle.prototype.duplicate = function() {
+//         console.log('duplicate square');
+//     }
+
+// }
+
+// const shapes = [
+//     new Circle(),
+//     new Square()
+// ];
+
+// for (let shape of shapes) {
+//     shape.duplicate();
+// }
+
+// When to Use Inheritance? ->
+// -If one type is a more specific version of another, inheritance fits.
+// -You want to reuse Logic
+// -You need Polymorphism
+
+// Mixins
+
+// function mixin(target, ...sources) {
+//     Object.assign(target, ...sources);
+// }
+
+
+// const canEat = {
+//     eat: function() {
+//         this.hunger--;
+//         console.log('eating');
+//     }
+// };
+
+// const canWalk = {
+//     walk: function() {
+//         console.log('walking')
+//     }
+// };
+
+// const canSwim = {
+//     swim: function() {
+//         console.log('swimming')
+//     }
+// };
+
+// function Person() {
+
+// }
+
+// const person = Object.assign({}, canEat, canWalk);
+// console.log(person);
+
+// Exercise on Prototypical Inheritance
+
