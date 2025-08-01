@@ -1,4 +1,3 @@
-# Advanced-JS-Learning
 
 # 🚀 Advanced JavaScript Notes & Practice 
 This repository contains my notes, code examples, and exercises from the **"Ultimate JavaScript Part 2: Advanced Topics"** course by [Code with Mosh](https://codewithmosh.com/).  
